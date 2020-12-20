@@ -1,5 +1,5 @@
 # NICF - Embedded System Integration with Arduino Microcontroller
-## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
+## by [Tertiary Courses](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [NICF - Embedded System Integration with Arduino Microcontroller](https://www.tertiarycourses.com.sg/wsq-arduino-embedded-system.html) course. 
 
